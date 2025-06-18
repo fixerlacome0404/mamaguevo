@@ -7771,5 +7771,17 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/coke_to_slab": {
+    "criteria": {
+      "has_coke": "2025-06-18 21:18:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coke_from_slab": {
+    "criteria": {
+      "has_coke": "2025-06-18 21:18:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
