@@ -652,3 +652,16 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [18Jun2025 18:49:56.683] [Server thread/INFO] [owo/]: Receiving client config
 [18Jun2025 19:20:23.169] [Server thread/ERROR] [immersiveengineering-wires/]: Tried to add a duplicate connection from ConnectionPoint[position=BlockPos{x=-255, y=71, z=934}, index=1] (blusunrize.immersiveengineering.common.blocks.metal.RedstoneBreakerBlockEntity@11836574) to ConnectionPoint[position=BlockPos{x=-255, y=71, z=934}, index=0] (blusunrize.immersiveengineering.common.blocks.metal.RedstoneBreakerBlockEntity@11836574)
 [18Jun2025 19:26:24.869] [Server thread/ERROR] [immersiveengineering-wires/]: Tried to add a duplicate connection from ConnectionPoint[position=BlockPos{x=-251, y=70, z=929}, index=1] (blusunrize.immersiveengineering.common.blocks.metal.RedstoneBreakerBlockEntity@3ab717c2) to ConnectionPoint[position=BlockPos{x=-251, y=70, z=929}, index=0] (blusunrize.immersiveengineering.common.blocks.metal.RedstoneBreakerBlockEntity@3ab717c2)
+[18Jun2025 19:44:52.918] [Server thread/ERROR] [immersiveengineering-wires/]: Tried to add a duplicate connection from ConnectionPoint[position=BlockPos{x=-251, y=70, z=930}, index=1] (blusunrize.immersiveengineering.common.blocks.metal.RedstoneBreakerBlockEntity@46533d8) to ConnectionPoint[position=BlockPos{x=-251, y=70, z=930}, index=0] (blusunrize.immersiveengineering.common.blocks.metal.RedstoneBreakerBlockEntity@46533d8)
+[18Jun2025 19:45:52.866] [Server thread/ERROR] [immersiveengineering-wires/]: Tried to add a duplicate connection from ConnectionPoint[position=BlockPos{x=-251, y=72, z=930}, index=1] (blusunrize.immersiveengineering.common.blocks.metal.RedstoneBreakerBlockEntity@35beb717) to ConnectionPoint[position=BlockPos{x=-251, y=72, z=930}, index=0] (blusunrize.immersiveengineering.common.blocks.metal.RedstoneBreakerBlockEntity@35beb717)
+[18Jun2025 19:46:43.052] [Netty Epoll Server IO #2/ERROR] [net.minecraft.network.Connection/]: Exception caught in connection
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection timed out
+[18Jun2025 19:46:43.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 lost connection: Disconnected
+[18Jun2025 19:46:43.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 left the game
+[18Jun2025 19:46:55.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakko4146[/100.105.133.77:58499] logged in with entity id 10019 at (-252.69999998807907, 69.0, 930.8181671098021)
+[18Jun2025 19:46:55.751] [Server thread/INFO] [owo/]: Sending server config values to client
+[18Jun2025 19:46:55.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 joined the game
+[18Jun2025 19:46:56.292] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
+[18Jun2025 19:46:56.293] [Server thread/INFO] [owo/]: Receiving client config
+[18Jun2025 19:47:59.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 lost connection: Disconnected
+[18Jun2025 19:47:59.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 left the game
