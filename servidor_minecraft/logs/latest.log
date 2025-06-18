@@ -670,3 +670,4 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [18Jun2025 19:49:54.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 joined the game
 [18Jun2025 19:49:56.048] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
 [18Jun2025 19:49:56.249] [Server thread/INFO] [owo/]: Receiving client config
+[18Jun2025 20:07:52.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved wrongly!
