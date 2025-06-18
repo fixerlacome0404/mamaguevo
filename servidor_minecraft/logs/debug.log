@@ -8932,3 +8932,25 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [18Jun2025 23:08:46.409] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@72ecbb6f, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@72ecbb6f, b=54, e=80}, net.minecraft.world.CompoundContainer@545c8e01=InventoryMapping{i=net.minecraft.world.CompoundContainer@545c8e01, c=net.minecraft.world.inventory.ChestMenu@72ecbb6f, b=0, e=53}}
 [18Jun2025 23:08:46.409] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@545c8e01, c=net.minecraft.world.inventory.ChestMenu@72ecbb6f, b=0, e=53}
 [18Jun2025 23:09:44.685] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 23:12:54.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! 5.010420964622767,1.0,8.640208057550353
+[18Jun2025 23:12:54.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[18Jun2025 23:14:46.247] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 23:19:22.408] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:box_turtle'
+[18Jun2025 23:19:22.409] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:turtle_soup'
+[18Jun2025 23:19:22.410] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:box_turtle'
+[18Jun2025 23:19:22.412] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18Jun2025 23:19:22.413] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:box_turtle'
+[18Jun2025 23:19:22.414] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:starshell_turtle'
+[18Jun2025 23:19:22.415] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:arrau_turtle'
+[18Jun2025 23:19:22.417] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.417] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.418] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.418] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.418] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.419] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.420] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.421] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18Jun2025 23:19:22.424] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18Jun2025 23:19:22.425] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18Jun2025 23:19:22.425] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18Jun2025 23:19:46.104] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa

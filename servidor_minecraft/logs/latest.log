@@ -669,3 +669,23 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [18Jun2025 22:57:43.724] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/43113, l='ServerLevel[waaaaa]', x=-268.76, y=68.77, z=901.45] died, message: 'Fisherman tried to swim in lava'
 [18Jun2025 22:57:53.923] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/43249, l='ServerLevel[waaaaa]', x=-269.29, y=67.49, z=901.22] died, message: 'Fisherman tried to swim in lava'
 [18Jun2025 22:58:34.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! 10.071071846976622,-0.2712241076924897,-1.4176259539962075
+[18Jun2025 23:12:54.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! 5.010420964622767,1.0,8.640208057550353
+[18Jun2025 23:12:54.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[18Jun2025 23:19:22.408] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:box_turtle'
+[18Jun2025 23:19:22.409] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:turtle_soup'
+[18Jun2025 23:19:22.410] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:box_turtle'
+[18Jun2025 23:19:22.412] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18Jun2025 23:19:22.413] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:box_turtle'
+[18Jun2025 23:19:22.414] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:starshell_turtle'
+[18Jun2025 23:19:22.415] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: aquaculture:arrau_turtle'
+[18Jun2025 23:19:22.417] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.417] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.418] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.418] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.418] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.419] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.420] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[18Jun2025 23:19:22.421] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18Jun2025 23:19:22.424] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18Jun2025 23:19:22.425] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[18Jun2025 23:19:22.425] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
