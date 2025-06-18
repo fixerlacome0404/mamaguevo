@@ -652,3 +652,14 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [18Jun2025 21:00:11.146] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
 [18Jun2025 21:00:11.150] [Server thread/INFO] [owo/]: Receiving client config
 [18Jun2025 21:09:21.180] [Server thread/ERROR] [immersiveengineering-wires/]: Tried to add a duplicate connection from ConnectionPoint[position=BlockPos{x=-252, y=71, z=928}, index=1] (blusunrize.immersiveengineering.common.blocks.metal.RedstoneBreakerBlockEntity@b462b90) to ConnectionPoint[position=BlockPos{x=-252, y=71, z=928}, index=0] (blusunrize.immersiveengineering.common.blocks.metal.RedstoneBreakerBlockEntity@b462b90)
+[18Jun2025 21:30:42.875] [Netty Epoll Server IO #1/ERROR] [net.minecraft.network.Connection/]: Exception caught in connection
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection timed out
+[18Jun2025 21:30:42.932] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 lost connection: Disconnected
+[18Jun2025 21:30:42.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 left the game
+[18Jun2025 21:30:51.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakko4146[/100.105.133.77:59370] logged in with entity id 8365 at (-214.7359168827404, 50.125, 949.7325978657183)
+[18Jun2025 21:30:51.945] [Server thread/INFO] [owo/]: Sending server config values to client
+[18Jun2025 21:30:51.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 joined the game
+[18Jun2025 21:30:52.349] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
+[18Jun2025 21:30:52.384] [Server thread/INFO] [owo/]: Receiving client config
+[18Jun2025 21:44:55.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has reached the goal [It's all coming together]
+[18Jun2025 21:50:13.072] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=28, y=-46, z=782}
