@@ -8892,3 +8892,6 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [18Jun2025 22:18:46.674] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@50984796, c=net.minecraft.world.inventory.ChestMenu@5a52cd8d, b=0, e=53}
 [18Jun2025 22:19:44.010] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [18Jun2025 22:24:44.008] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 22:29:44.014] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 22:34:44.002] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 22:39:44.002] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
