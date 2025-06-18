@@ -8897,3 +8897,9 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [18Jun2025 22:39:44.002] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [18Jun2025 22:44:44.010] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [18Jun2025 22:49:44.008] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 22:54:44.004] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 22:57:37.824] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/42997, l='ServerLevel[waaaaa]', x=-268.93, y=68.40, z=901.33] died, message: 'Fisherman tried to swim in lava'
+[18Jun2025 22:57:43.724] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/43113, l='ServerLevel[waaaaa]', x=-268.76, y=68.77, z=901.45] died, message: 'Fisherman tried to swim in lava'
+[18Jun2025 22:57:53.923] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/43249, l='ServerLevel[waaaaa]', x=-269.29, y=67.49, z=901.22] died, message: 'Fisherman tried to swim in lava'
+[18Jun2025 22:58:34.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! 10.071071846976622,-0.2712241076924897,-1.4176259539962075
+[18Jun2025 22:59:44.002] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa

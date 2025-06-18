@@ -7807,6 +7807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-18 22:54:41 +0000"
+    },
+    "done": true
+  },
   "betterarcheology:recipes/building_blocks/cracked_mud_bricks": {
     "criteria": {
       "has_mud_bricks": "2025-06-18 21:44:14 +0000"
