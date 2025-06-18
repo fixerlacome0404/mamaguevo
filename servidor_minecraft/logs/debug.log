@@ -8767,3 +8767,17 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [18Jun2025 19:47:59.119] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 lost connection: Disconnected
 [18Jun2025 19:47:59.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 left the game
 [18Jun2025 19:49:27.910] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 19:49:52.193] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@4de8caf0 into net.minecraft.network.Connection@8ea4d29
+[18Jun2025 19:49:53.080] [Server thread/DEBUG] [SynchronizeRegistriesTaskMixin/]: Synchronizing registries with common known packs: [minecraft:core:1.21.1]
+[18Jun2025 19:49:54.800] [Netty Epoll Server IO #5/DEBUG] [net.neoforged.neoforge.network.filters.NetworkFilters/]: Injected net.neoforged.neoforge.network.filters.GenericPacketSplitter@39a8c086 into net.minecraft.network.Connection@8ea4d29
+[18Jun2025 19:49:54.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Byakko4146[/100.105.133.77:58693] logged in with entity id 10975 at (-253.28492856698256, 69.0, 933.3928002718578)
+[18Jun2025 19:49:54.870] [Server thread/INFO] [owo/]: Sending server config values to client
+[18Jun2025 19:49:54.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 joined the game
+[18Jun2025 19:49:54.884] [Server thread/DEBUG] [snownee.jade.Jade/]: Syncing config to Byakko4146 (54f84238-5ece-3772-b096-bb6c9aa44f2d)
+[18Jun2025 19:49:56.048] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
+[18Jun2025 19:49:56.249] [Server thread/INFO] [owo/]: Receiving client config
+[18Jun2025 19:54:27.956] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[18Jun2025 19:57:00.631] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 48
+[18Jun2025 19:57:00.631] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@31b8ace3=InventoryMapping{i=net.minecraft.world.CompoundContainer@31b8ace3, c=net.minecraft.world.inventory.ChestMenu@35b626d4, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@35b626d4, b=54, e=80}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@35b626d4, b=81, e=89}}
+[18Jun2025 19:57:00.631] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@31b8ace3, c=net.minecraft.world.inventory.ChestMenu@35b626d4, b=0, e=53}
+[18Jun2025 19:59:27.948] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
