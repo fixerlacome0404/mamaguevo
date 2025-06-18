@@ -23,12 +23,19 @@
       "muskeg": "2025-06-12 03:18:47 +0000",
       "woodland": "2025-06-18 03:36:31 +0000",
       "dryland": "2025-06-18 04:04:47 +0000",
-      "cold_desert": "2025-06-12 03:19:38 +0000",
-      "lavender_field": "2025-06-14 22:14:03 +0000",
+      "shrubland": "2025-06-18 23:28:02 +0000",
       "snowblossom_grove": "2025-06-12 03:10:49 +0000",
       "old_growth_dead_forest": "2025-06-12 03:10:09 +0000",
       "redwood_forest": "2025-06-14 22:16:51 +0000",
       "scrubland": "2025-06-18 04:04:03 +0000",
+      "floodplain": "2025-06-18 23:26:28 +0000",
+      "seasonal_forest": "2025-06-14 22:13:54 +0000",
+      "jacaranda_glade": "2025-06-14 22:15:00 +0000",
+      "pasture": "2025-06-15 18:24:59 +0000",
+      "volcanic_plains": "2025-06-18 23:25:55 +0000",
+      "cold_desert": "2025-06-12 03:19:38 +0000",
+      "lavender_field": "2025-06-14 22:14:03 +0000",
+      "old_growth_woodland": "2025-06-18 23:25:08 +0000",
       "snowy_coniferous_forest": "2025-06-12 03:20:32 +0000",
       "snowy_fir_clearing": "2025-06-12 03:09:20 +0000",
       "tundra": "2025-06-12 03:19:31 +0000",
@@ -37,12 +44,9 @@
       "field": "2025-06-12 02:51:27 +0000",
       "orchard": "2025-06-14 22:15:41 +0000",
       "undergrowth": "2025-06-16 18:42:18 +0000",
-      "seasonal_forest": "2025-06-14 22:13:54 +0000",
       "mediterranean_forest": "2025-06-18 03:52:34 +0000",
-      "jacaranda_glade": "2025-06-14 22:15:00 +0000",
       "snowy_maple_woods": "2025-06-12 03:18:39 +0000",
-      "coniferous_forest": "2025-06-12 03:26:37 +0000",
-      "pasture": "2025-06-15 18:24:59 +0000"
+      "coniferous_forest": "2025-06-12 03:26:37 +0000"
     },
     "done": false
   },
@@ -7816,9 +7820,21 @@
     },
     "done": true
   },
+  "livingthings:recipes/cooked_elephant_from_campfire_cooking": {
+    "criteria": {
+      "has_elephant": "2025-06-18 23:21:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-06-18 22:54:41 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_lion_from_campfire_cooking": {
+    "criteria": {
+      "has_lion": "2025-06-18 23:22:14 +0000"
     },
     "done": true
   },
@@ -7831,6 +7847,12 @@
   "minecraft:recipes/building_blocks/mud_brick_stairs": {
     "criteria": {
       "has_mud_bricks": "2025-06-18 21:44:14 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_lion": {
+    "criteria": {
+      "has_lion": "2025-06-18 23:22:14 +0000"
     },
     "done": true
   },
@@ -7856,6 +7878,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-06-18 23:05:05 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_elephant": {
+    "criteria": {
+      "has_elephant": "2025-06-18 23:21:27 +0000"
     },
     "done": true
   },
@@ -7901,9 +7929,21 @@
     },
     "done": true
   },
+  "livingthings:recipes/cooked_elephant_from_smoking": {
+    "criteria": {
+      "has_elephant": "2025-06-18 23:21:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2025-06-18 21:44:14 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_lion_from_smoking": {
+    "criteria": {
+      "has_lion": "2025-06-18 23:22:14 +0000"
     },
     "done": true
   },
