@@ -7995,6 +7995,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_railgun_capacitors": {
+    "criteria": {
+      "has_railgun": "2025-06-20 05:55:09 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:tools/craft_powerpack": {
     "criteria": {
       "has_item": "2025-06-20 05:39:41 +0000"
@@ -8025,9 +8031,21 @@
     },
     "done": true
   },
+  "immersiveengineering:tools/craft_railgun": {
+    "criteria": {
+      "has_item": "2025-06-20 05:55:09 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/logic_unit": {
     "criteria": {
       "has_electron_tube": "2025-06-20 05:40:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_railgun_scope": {
+    "criteria": {
+      "has_railgun": "2025-06-20 05:55:09 +0000"
     },
     "done": true
   },

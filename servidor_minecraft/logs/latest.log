@@ -659,3 +659,4 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [20Jun2025 04:38:27.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has reached the goal [Zombie Doctor]
 [20Jun2025 05:33:44.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has reached the goal [Modern Materials]
 [20Jun2025 05:39:41.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Portable Particle Supply]
+[20Jun2025 05:55:09.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Fortune's Legacy]
