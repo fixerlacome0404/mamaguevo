@@ -8692,3 +8692,9 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [20Jun2025 21:57:25.967] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 22
 [20Jun2025 21:57:25.967] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2be91ed, b=81, e=89}, net.minecraft.world.CompoundContainer@7f59aaea=InventoryMapping{i=net.minecraft.world.CompoundContainer@7f59aaea, c=net.minecraft.world.inventory.ChestMenu@2be91ed, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@2be91ed, b=54, e=80}}
 [20Jun2025 21:57:25.967] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@7f59aaea, c=net.minecraft.world.inventory.ChestMenu@2be91ed, b=0, e=53}
+[20Jun2025 21:58:47.123] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 22:03:47.109] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 22:06:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 wasn't careful enough around live wiring
+[20Jun2025 22:07:21.427] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Byakko4146 claimed a grave belonging to Byakko4146 at -254, 76, 948, minecraft:overworld
+[20Jun2025 22:08:47.113] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 22:13:47.095] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
