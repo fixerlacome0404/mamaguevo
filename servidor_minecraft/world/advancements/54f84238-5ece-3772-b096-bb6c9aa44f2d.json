@@ -821,7 +821,8 @@
       "cod": "2025-06-12 03:09:29 +0000",
       "rabbit_stew": "2025-06-16 18:30:09 +0000",
       "porkchop": "2025-06-12 04:25:33 +0000",
-      "cooked_salmon": "2025-06-12 03:15:56 +0000"
+      "cooked_salmon": "2025-06-12 03:15:56 +0000",
+      "pumpkin_pie": "2025-06-20 04:27:36 +0000"
     },
     "done": false
   },
@@ -4491,6 +4492,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sweet_berries": "2025-06-18 23:40:14 +0000",
       "carrot": "2025-06-15 04:18:45 +0000"
     },
     "done": false
@@ -7800,45 +7802,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-18 21:44:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-18 23:16:21 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:unidentified_artifact": {
-    "criteria": {
-      "betterarcheology:artifact": "2025-06-18 21:44:55 +0000"
-    },
-    "done": true
-  },
   "betterarcheology:recipes/building_blocks/rotten_stairs": {
     "criteria": {
       "has_rotten_planks": "2025-06-18 21:44:03 +0000"
     },
     "done": true
   },
-  "livingthings:recipes/cooked_elephant_from_campfire_cooking": {
+  "betterarcheology:recipes/misc/rotten_fence": {
     "criteria": {
-      "has_elephant": "2025-06-18 23:21:27 +0000"
+      "has_rotten_planks": "2025-06-18 21:44:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "betterarcheology:recipes/redstone/rotten_trapdoor": {
     "criteria": {
-      "has_netherite_scrap": "2025-06-18 22:54:41 +0000"
+      "has_rotten_planks": "2025-06-18 21:44:03 +0000"
     },
     "done": true
   },
-  "livingthings:recipes/cooked_lion_from_campfire_cooking": {
+  "betterarcheology:recipes/redstone/rotten_fence_gate": {
     "criteria": {
-      "has_lion": "2025-06-18 23:22:14 +0000"
+      "has_rotten_planks": "2025-06-18 21:44:03 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/redstone/rotten_pressure_plate": {
+    "criteria": {
+      "has_rotten_planks": "2025-06-18 21:44:03 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/redstone/rotten_door": {
+    "criteria": {
+      "has_rotten_planks": "2025-06-18 21:44:03 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/building_blocks/rotten_slab": {
+    "criteria": {
+      "has_rotten_planks": "2025-06-18 21:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-18 21:44:14 +0000"
     },
     "done": true
   },
@@ -7854,58 +7862,9 @@
     },
     "done": true
   },
-  "livingthings:recipes/cooked_lion": {
-    "criteria": {
-      "has_lion": "2025-06-18 23:22:14 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/misc/unidentified_artifact": {
-    "criteria": {
-      "has_artifact_shards": "2025-06-18 21:44:46 +0000",
-      "has_the_recipe": "2025-06-18 21:44:46 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/misc/rotten_fence": {
-    "criteria": {
-      "has_rotten_planks": "2025-06-18 21:44:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
     "criteria": {
       "has_mud_bricks": "2025-06-18 21:44:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-06-18 23:05:05 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/cooked_elephant": {
-    "criteria": {
-      "has_elephant": "2025-06-18 23:21:27 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/redstone/rotten_trapdoor": {
-    "criteria": {
-      "has_rotten_planks": "2025-06-18 21:44:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-06-18 23:16:21 +0000"
-    },
-    "done": true
-  },
-  "betterarcheology:recipes/redstone/rotten_fence_gate": {
-    "criteria": {
-      "has_rotten_planks": "2025-06-18 21:44:03 +0000"
     },
     "done": true
   },
@@ -7921,9 +7880,16 @@
     },
     "done": true
   },
-  "betterarcheology:recipes/redstone/rotten_pressure_plate": {
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
-      "has_rotten_planks": "2025-06-18 21:44:03 +0000"
+      "has_mud_bricks": "2025-06-18 21:44:14 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/misc/unidentified_artifact": {
+    "criteria": {
+      "has_artifact_shards": "2025-06-18 21:44:46 +0000",
+      "has_the_recipe": "2025-06-18 21:44:46 +0000"
     },
     "done": true
   },
@@ -7933,39 +7899,75 @@
     },
     "done": true
   },
-  "livingthings:recipes/cooked_elephant_from_smoking": {
-    "criteria": {
-      "has_elephant": "2025-06-18 23:21:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-18 21:44:14 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/cooked_lion_from_smoking": {
-    "criteria": {
-      "has_lion": "2025-06-18 23:22:14 +0000"
-    },
-    "done": true
-  },
   "betterarcheology:artifact_shards": {
     "criteria": {
       "has_shards": "2025-06-18 21:44:46 +0000"
     },
     "done": true
   },
-  "betterarcheology:recipes/redstone/rotten_door": {
+  "betterarcheology:unidentified_artifact": {
     "criteria": {
-      "has_rotten_planks": "2025-06-18 21:44:03 +0000"
+      "betterarcheology:artifact": "2025-06-18 21:44:55 +0000"
     },
     "done": true
   },
-  "betterarcheology:recipes/building_blocks/rotten_slab": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_rotten_planks": "2025-06-18 21:44:03 +0000"
+      "has_netherite_scrap": "2025-06-18 22:54:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-06-18 23:05:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-18 23:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-06-18 23:16:21 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_elephant_from_campfire_cooking": {
+    "criteria": {
+      "has_elephant": "2025-06-18 23:21:27 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_elephant": {
+    "criteria": {
+      "has_elephant": "2025-06-18 23:21:27 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_elephant_from_smoking": {
+    "criteria": {
+      "has_elephant": "2025-06-18 23:21:27 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_lion_from_campfire_cooking": {
+    "criteria": {
+      "has_lion": "2025-06-18 23:22:14 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_lion": {
+    "criteria": {
+      "has_lion": "2025-06-18 23:22:14 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_lion_from_smoking": {
+    "criteria": {
+      "has_lion": "2025-06-18 23:22:14 +0000"
     },
     "done": true
   },
