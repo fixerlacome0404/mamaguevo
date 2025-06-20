@@ -662,3 +662,9 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [20Jun2025 05:55:09.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Fortune's Legacy]
 [20Jun2025 06:11:21.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 wasn't careful enough around live wiring
 [20Jun2025 06:11:39.351] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Byakko4146 claimed a grave belonging to Byakko4146 at -249, 78, 933, minecraft:overworld
+[20Jun2025 06:20:41.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has completed the challenge [The Spengler & Stantz Special]
+[20Jun2025 06:21:40.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 wasn't careful enough around live wiring
+[20Jun2025 06:21:46.028] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Byakko4146 claimed a grave belonging to Byakko4146 at -250, 70, 922, minecraft:overworld
+[20Jun2025 06:22:52.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 wasn't careful enough around live wiring
+[20Jun2025 06:22:52.125] [Server thread/ERROR] [com.b1n_ry.yigd.Yigd/]: Failed to generate grave at X: -250, Y: 77, Z: 948, minecraft:overworld. Grave block placement failed
+[20Jun2025 06:22:52.125] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Dropping items on ground instead of in grave

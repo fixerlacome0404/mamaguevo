@@ -8019,6 +8019,12 @@
     },
     "done": true
   },
+  "immersiveengineering:tools/upgrade_powerpack": {
+    "criteria": {
+      "code_trigger": "2025-06-20 06:20:41 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:multiblocks/craft_duroplast": {
     "criteria": {
       "has_item": "2025-06-20 05:33:44 +0000"
