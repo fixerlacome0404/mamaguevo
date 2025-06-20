@@ -8704,3 +8704,9 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [20Jun2025 22:19:44.083] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6c1318f7, c=net.minecraft.world.inventory.ChestMenu@5297a370, b=0, e=53}
 [20Jun2025 22:23:47.097] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [20Jun2025 22:28:47.095] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 22:29:07.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 wasn't careful enough around live wiring
+[20Jun2025 22:29:07.826] [Server thread/ERROR] [com.b1n_ry.yigd.Yigd/]: Failed to generate grave at X: -242, Y: 72, Z: 948, minecraft:overworld. Grave block placement failed
+[20Jun2025 22:29:07.826] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Dropping items on ground instead of in grave
+[20Jun2025 22:32:31.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! 0.4018476525839958,0.0,10.02398324468129
+[20Jun2025 22:33:47.116] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 22:38:47.100] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
