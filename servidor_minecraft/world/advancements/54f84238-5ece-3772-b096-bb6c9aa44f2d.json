@@ -7971,6 +7971,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_powerpack_magnet": {
+    "criteria": {
+      "has_powerpack": "2025-06-20 05:39:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/leash_all_frog_variants": {
     "criteria": {
       "minecraft:cold": "2025-06-20 04:30:39 +0000"
@@ -7989,9 +7995,27 @@
     },
     "done": true
   },
+  "immersiveengineering:tools/craft_powerpack": {
+    "criteria": {
+      "has_item": "2025-06-20 05:39:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-06-20 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_powerpack_tesla": {
+    "criteria": {
+      "has_powerpack": "2025-06-20 05:39:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/craft_duroplast": {
+    "criteria": {
+      "has_item": "2025-06-20 05:33:44 +0000"
     },
     "done": true
   },
@@ -8001,9 +8025,39 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/logic_unit": {
+    "criteria": {
+      "has_electron_tube": "2025-06-20 05:40:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_silver": {
+    "criteria": {
+      "has_plate_silver": "2025-06-20 05:22:25 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_powerpack_induction": {
+    "criteria": {
+      "has_powerpack": "2025-06-20 05:39:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-06-20 04:38:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_powerpack_antenna": {
+    "criteria": {
+      "has_powerpack": "2025-06-20 05:39:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/reinforced_window": {
+    "criteria": {
+      "has_duroplast": "2025-06-20 05:33:44 +0000"
     },
     "done": true
   },
