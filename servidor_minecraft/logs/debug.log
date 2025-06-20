@@ -8725,3 +8725,20 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [20Jun2025 22:48:47.091] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [20Jun2025 22:53:47.096] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [20Jun2025 22:58:47.094] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 23:03:47.088] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 23:08:47.092] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 23:13:47.096] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 23:14:34.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 wasn't careful enough around live wiring
+[20Jun2025 23:14:34.318] [Server thread/ERROR] [com.b1n_ry.yigd.Yigd/]: Failed to generate grave at X: -229, Y: 71, Z: 948, minecraft:overworld. Grave block placement failed
+[20Jun2025 23:14:34.319] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Dropping items on ground instead of in grave
+[20Jun2025 23:14:57.179] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 0
+[20Jun2025 23:14:57.179] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=blusunrize.immersiveengineering.common.gui.CrateMenu@656736, b=54, e=62}, []=InventoryMapping{i=[], c=blusunrize.immersiveengineering.common.gui.CrateMenu@656736, b=27, e=53}, blusunrize.immersiveengineering.common.blocks.wooden.WoodenCrateBlockEntity@41dc4f05=InventoryMapping{i=blusunrize.immersiveengineering.common.blocks.wooden.WoodenCrateBlockEntity@41dc4f05, c=blusunrize.immersiveengineering.common.gui.CrateMenu@656736, b=0, e=26}}
+[20Jun2025 23:14:57.179] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=blusunrize.immersiveengineering.common.blocks.wooden.WoodenCrateBlockEntity@41dc4f05, c=blusunrize.immersiveengineering.common.gui.CrateMenu@656736, b=0, e=26}
+[20Jun2025 23:15:02.576] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 2
+[20Jun2025 23:15:02.577] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=blusunrize.immersiveengineering.common.gui.CrateMenu@1e812c9d, b=54, e=62}, []=InventoryMapping{i=[], c=blusunrize.immersiveengineering.common.gui.CrateMenu@1e812c9d, b=27, e=53}, blusunrize.immersiveengineering.common.blocks.wooden.WoodenCrateBlockEntity@823cfe4=InventoryMapping{i=blusunrize.immersiveengineering.common.blocks.wooden.WoodenCrateBlockEntity@823cfe4, c=blusunrize.immersiveengineering.common.gui.CrateMenu@1e812c9d, b=0, e=26}}
+[20Jun2025 23:15:02.577] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=blusunrize.immersiveengineering.common.blocks.wooden.WoodenCrateBlockEntity@823cfe4, c=blusunrize.immersiveengineering.common.gui.CrateMenu@1e812c9d, b=0, e=26}
+[20Jun2025 23:18:47.104] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 23:23:47.097] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 23:28:47.093] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 23:33:47.091] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 23:38:47.091] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa

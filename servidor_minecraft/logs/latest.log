@@ -661,3 +661,6 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [20Jun2025 22:29:07.826] [Server thread/ERROR] [com.b1n_ry.yigd.Yigd/]: Failed to generate grave at X: -242, Y: 72, Z: 948, minecraft:overworld. Grave block placement failed
 [20Jun2025 22:29:07.826] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Dropping items on ground instead of in grave
 [20Jun2025 22:32:31.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! 0.4018476525839958,0.0,10.02398324468129
+[20Jun2025 23:14:34.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 wasn't careful enough around live wiring
+[20Jun2025 23:14:34.318] [Server thread/ERROR] [com.b1n_ry.yigd.Yigd/]: Failed to generate grave at X: -229, Y: 71, Z: 948, minecraft:overworld. Grave block placement failed
+[20Jun2025 23:14:34.319] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Dropping items on ground instead of in grave
