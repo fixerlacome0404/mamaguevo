@@ -655,3 +655,5 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [20Jun2025 04:26:27.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -224.500000, 69.500000, 907.500000]
 [20Jun2025 04:27:47.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 wasn't careful enough around live wiring
 [20Jun2025 04:28:00.705] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Byakko4146 claimed a grave belonging to Byakko4146 at -252, 76, 943, minecraft:overworld
+[20Jun2025 04:35:06.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Local Brewery]
+[20Jun2025 04:38:27.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has reached the goal [Zombie Doctor]
