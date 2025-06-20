@@ -8698,3 +8698,9 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [20Jun2025 22:07:21.427] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Byakko4146 claimed a grave belonging to Byakko4146 at -254, 76, 948, minecraft:overworld
 [20Jun2025 22:08:47.113] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [20Jun2025 22:13:47.095] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 22:18:47.102] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 22:19:44.083] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 40
+[20Jun2025 22:19:44.083] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5297a370, b=81, e=89}, net.minecraft.world.CompoundContainer@6c1318f7=InventoryMapping{i=net.minecraft.world.CompoundContainer@6c1318f7, c=net.minecraft.world.inventory.ChestMenu@5297a370, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@5297a370, b=54, e=80}}
+[20Jun2025 22:19:44.083] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@6c1318f7, c=net.minecraft.world.inventory.ChestMenu@5297a370, b=0, e=53}
+[20Jun2025 22:23:47.097] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[20Jun2025 22:28:47.095] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
