@@ -9265,3 +9265,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 40 out of bounds for lengt
 [21Jun2025 05:18:51.297] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [21Jun2025 05:23:51.297] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [21Jun2025 05:28:51.297] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 05:33:51.297] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 05:38:51.308] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
