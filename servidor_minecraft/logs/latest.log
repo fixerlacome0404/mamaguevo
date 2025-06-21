@@ -989,3 +989,26 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 40 out of bounds for lengt
 [21Jun2025 03:27:08.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-194, y=18, z=313} BlockPos{x=-192, y=18, z=313}
 [21Jun2025 03:27:08.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-194, y=18, z=313} BlockPos{x=-192, y=18, z=313}
 [21Jun2025 03:27:08.475] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-194, y=18, z=313} BlockPos{x=-192, y=18, z=313}
+[21Jun2025 03:29:09.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-223, y=17, z=276} BlockPos{x=-224, y=18, z=278}
+[21Jun2025 03:29:09.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-222, y=17, z=276} BlockPos{x=-224, y=18, z=278}
+[21Jun2025 03:33:18.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-266, y=16, z=398} BlockPos{x=-265, y=16, z=398}
+[21Jun2025 03:33:18.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-266, y=15, z=398} BlockPos{x=-265, y=16, z=398}
+[21Jun2025 03:33:18.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-266, y=15, z=398} BlockPos{x=-265, y=16, z=398}
+[21Jun2025 03:33:18.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-267, y=16, z=398} BlockPos{x=-265, y=16, z=398}
+[21Jun2025 03:33:18.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-266, y=15, z=399} BlockPos{x=-265, y=16, z=398}
+[21Jun2025 03:33:18.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-266, y=16, z=399} BlockPos{x=-265, y=16, z=398}
+[21Jun2025 03:33:31.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-256, y=16, z=402} BlockPos{x=-256, y=16, z=401}
+[21Jun2025 03:33:47.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-252, y=17, z=428} BlockPos{x=-250, y=17, z=430}
+[21Jun2025 03:33:47.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-252, y=17, z=429} BlockPos{x=-250, y=17, z=430}
+[21Jun2025 03:33:47.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-252, y=17, z=429} BlockPos{x=-250, y=17, z=430}
+[21Jun2025 03:35:15.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=17, z=436} BlockPos{x=-175, y=17, z=438}
+[21Jun2025 03:35:15.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=17, z=436} BlockPos{x=-175, y=17, z=438}
+[21Jun2025 03:35:15.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=17, z=436} BlockPos{x=-175, y=17, z=438}
+[21Jun2025 03:39:43.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=12, z=467} BlockPos{x=-105, y=12, z=468}
+[21Jun2025 03:40:12.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-77, y=12, z=393} BlockPos{x=-80, y=12, z=395}
+[21Jun2025 03:40:54.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -43.500000, 75.500000, 156.500000]
+[21Jun2025 03:41:28.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -74.500000, 77.500000, 182.500000]
+[21Jun2025 03:41:53.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -327.500000, 75.500000, 137.500000]
+[21Jun2025 03:41:59.885] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/55675, l='ServerLevel[waaaaa]', x=-361.00, y=89.00, z=0.90] as it would cause deadlock
+[21Jun2025 03:46:08.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23179ms or 463 ticks behind
+[21Jun2025 03:48:03.321] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
