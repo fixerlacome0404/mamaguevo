@@ -1012,3 +1012,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 40 out of bounds for lengt
 [21Jun2025 03:41:59.885] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/55675, l='ServerLevel[waaaaa]', x=-361.00, y=89.00, z=0.90] as it would cause deadlock
 [21Jun2025 03:46:08.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23179ms or 463 ticks behind
 [21Jun2025 03:48:03.321] [Worker-Main-8/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
+[21Jun2025 03:48:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -224.500000, 69.500000, 907.500000]
+[21Jun2025 03:59:37.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has completed the challenge [Cover Me in Debris]
+[21Jun2025 04:05:34.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Gave 2 [Netherite Ingot] to Byakko4146]
+[21Jun2025 04:08:16.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Crafting a New Look]
