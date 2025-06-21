@@ -651,3 +651,4 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [21Jun2025 16:42:30.547] [Server thread/INFO] [com.b1n_ry.yigd.Yigd/]: Priority overwritten for player Byakko4146. Claiming: GRAVE / Robbing: INVENTORY
 [21Jun2025 16:42:30.554] [Server thread/INFO] [owo/]: Receiving client config
 [21Jun2025 16:42:30.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21Jun2025 17:47:12.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved wrongly!
