@@ -8635,3 +8635,16 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [21Jun2025 20:28:15.667] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [21Jun2025 20:33:15.661] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [21Jun2025 20:33:44.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -224.500000, 69.500000, 907.500000]
+[21Jun2025 20:38:15.671] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 20:42:11.457] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 40
+[21Jun2025 20:42:11.458] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@1dfc7acd=InventoryMapping{i=net.minecraft.world.CompoundContainer@1dfc7acd, c=net.minecraft.world.inventory.ChestMenu@397a250c, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@397a250c, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@397a250c, b=54, e=80}}
+[21Jun2025 20:42:11.458] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@1dfc7acd, c=net.minecraft.world.inventory.ChestMenu@397a250c, b=0, e=53}
+[21Jun2025 20:43:15.669] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 20:48:15.669] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 20:48:41.938] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 22
+[21Jun2025 20:48:41.939] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4049dd77, b=81, e=89}, net.minecraft.world.CompoundContainer@24c629a=InventoryMapping{i=net.minecraft.world.CompoundContainer@24c629a, c=net.minecraft.world.inventory.ChestMenu@4049dd77, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@4049dd77, b=54, e=80}}
+[21Jun2025 20:48:41.939] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@24c629a, c=net.minecraft.world.inventory.ChestMenu@4049dd77, b=0, e=53}
+[21Jun2025 20:53:15.668] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 20:58:15.664] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 21:03:15.689] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 21:08:15.670] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
