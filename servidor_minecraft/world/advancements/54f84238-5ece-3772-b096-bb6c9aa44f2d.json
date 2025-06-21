@@ -8085,5 +8085,29 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_shield_flash": {
+    "criteria": {
+      "has_shield": "2025-06-21 00:37:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shield": {
+    "criteria": {
+      "has_shield": "2025-06-21 00:37:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_shield_magnet": {
+    "criteria": {
+      "has_shield": "2025-06-21 00:37:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/toolupgrade_shield_shock": {
+    "criteria": {
+      "has_shield": "2025-06-21 00:37:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
