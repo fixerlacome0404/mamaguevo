@@ -9160,3 +9160,16 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 40 out of bounds for lengt
 [21Jun2025 04:05:34.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Gave 2 [Netherite Ingot] to Byakko4146]
 [21Jun2025 04:08:16.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Crafting a New Look]
 [21Jun2025 04:08:51.305] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 04:13:51.300] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 04:16:23.635] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 41
+[21Jun2025 04:16:23.635] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@20afc5af, b=54, e=80}, net.minecraft.world.CompoundContainer@1c44026c=InventoryMapping{i=net.minecraft.world.CompoundContainer@1c44026c, c=net.minecraft.world.inventory.ChestMenu@20afc5af, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@20afc5af, b=81, e=89}}
+[21Jun2025 04:16:23.635] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@1c44026c, c=net.minecraft.world.inventory.ChestMenu@20afc5af, b=0, e=53}
+[21Jun2025 04:18:51.300] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 04:23:51.297] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 04:24:48.206] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action ONEITEMOUT slot 51
+[21Jun2025 04:24:48.206] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {[]=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7fff4e2, b=54, e=80}, net.minecraft.world.CompoundContainer@e14f87c=InventoryMapping{i=net.minecraft.world.CompoundContainer@e14f87c, c=net.minecraft.world.inventory.ChestMenu@7fff4e2, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@7fff4e2, b=81, e=89}}
+[21Jun2025 04:24:48.206] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@e14f87c, c=net.minecraft.world.inventory.ChestMenu@7fff4e2, b=0, e=53}
+[21Jun2025 04:25:00.927] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:stronghold took 16 ms
+[21Jun2025 04:28:51.297] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 04:33:51.303] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 04:38:51.298] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa

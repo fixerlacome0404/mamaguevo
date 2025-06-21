@@ -823,7 +823,8 @@
       "rabbit_stew": "2025-06-16 18:30:09 +0000",
       "porkchop": "2025-06-12 04:25:33 +0000",
       "cooked_salmon": "2025-06-12 03:15:56 +0000",
-      "pumpkin_pie": "2025-06-20 04:27:36 +0000"
+      "pumpkin_pie": "2025-06-20 04:27:36 +0000",
+      "golden_carrot": "2025-06-21 04:22:34 +0000"
     },
     "done": false
   },
@@ -8110,6 +8111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-21 04:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-06-21 04:08:16 +0000"
@@ -8119,6 +8126,18 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-06-21 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-21 04:22:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-06-21 04:22:53 +0000"
     },
     "done": true
   },
