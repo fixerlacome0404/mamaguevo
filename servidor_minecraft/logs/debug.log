@@ -8602,3 +8602,5 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [21Jun2025 16:47:19.619] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [21Jun2025 16:49:29.634] [Server thread/DEBUG] [mixin/]: Mixing WorldGenRegionMixin from easyanvils.common.mixins.json into net.minecraft.server.level.WorldGenRegion
 [21Jun2025 16:49:29.634] [Server thread/DEBUG] [mixin/]: easyanvils.common.mixins.json:WorldGenRegionMixin from mod easyanvils: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[21Jun2025 16:52:19.549] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 16:57:19.579] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
