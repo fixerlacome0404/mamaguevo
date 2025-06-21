@@ -1302,6 +1302,7 @@
       "minecraft:husk": "2025-06-18 04:13:42 +0000",
       "minecraft:ghast": "2025-06-16 20:01:55 +0000",
       "minecraft:hoglin": "2025-06-16 18:41:17 +0000",
+      "minecraft:cave_spider": "2025-06-21 20:25:36 +0000",
       "minecraft:piglin": "2025-06-16 18:40:45 +0000",
       "minecraft:vindicator": "2025-06-18 03:37:30 +0000",
       "minecraft:enderman": "2025-06-15 22:10:59 +0000",
@@ -8301,6 +8302,12 @@
   "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2025-06-21 20:07:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis_smithing": {
+    "criteria": {
+      "has_lapis": "2025-06-21 20:24:40 +0000"
     },
     "done": true
   },

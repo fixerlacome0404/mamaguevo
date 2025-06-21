@@ -653,3 +653,4 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [21Jun2025 19:39:04.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -243.500000, 87.500000, 934.500000]
 [21Jun2025 19:40:32.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -238.500000, 87.500000, 941.500000]
 [21Jun2025 19:41:02.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -230.500000, 84.500000, 947.500000]
+[21Jun2025 20:33:44.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -224.500000, 69.500000, 907.500000]
