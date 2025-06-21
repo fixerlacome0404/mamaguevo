@@ -8621,3 +8621,9 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [21Jun2025 19:53:10.427] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$modifyFrame$0(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z to md655d0f$bblcore$lambda$modifyFrame$0$0 in bblcore.mixins.json:PortalTagForNetherPortalsMixin from mod bblcore
 [21Jun2025 19:53:10.429] [Server thread/DEBUG] [mixin/]: bblcore.mixins.json:PortalTagForNetherPortalsMixin from mod bblcore->@Inject::modifyFrame(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V doesn't use it's CallbackInfo
 [21Jun2025 19:53:15.685] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 19:58:16.142] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 20:03:15.682] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 20:06:37.485] [Worker-Main-5/DEBUG] [mixin/]: Mixing common.PoolAliasLookupMixin from lithostitched.mixins.json into net.minecraft.world.level.levelgen.structure.pools.alias.PoolAliasLookup
+[21Jun2025 20:06:37.486] [Worker-Main-5/DEBUG] [mixin/]: lithostitched.mixins.json:common.PoolAliasLookupMixin from mod lithostitched: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[21Jun2025 20:08:15.674] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 20:13:15.678] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa

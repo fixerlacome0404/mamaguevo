@@ -8226,5 +8226,89 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel2": {
+    "criteria": {
+      "has_deepslate_ore_nickel": "2025-06-21 20:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-06-21 20:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-06-21 19:58:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver_from_blasting2": {
+    "criteria": {
+      "has_deepslate_ore_silver": "2025-06-21 19:59:04 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver2": {
+    "criteria": {
+      "has_deepslate_ore_silver": "2025-06-21 19:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-06-21 19:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-06-21 20:09:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_uranium2": {
+    "criteria": {
+      "has_deepslate_ore_uranium": "2025-06-21 20:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-06-21 20:09:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_nickel_from_blasting2": {
+    "criteria": {
+      "has_deepslate_ore_nickel": "2025-06-21 20:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-06-21 20:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-06-21 19:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-06-21 19:54:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_uranium_from_blasting2": {
+    "criteria": {
+      "has_deepslate_ore_uranium": "2025-06-21 20:07:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
