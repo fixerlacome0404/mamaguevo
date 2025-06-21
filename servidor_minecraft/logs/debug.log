@@ -8647,3 +8647,6 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [21Jun2025 18:05:18.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -239.500000, 89.500000, 931.500000]
 [21Jun2025 18:07:19.519] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [21Jun2025 18:12:19.515] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 18:15:54.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -251.500000, 84.500000, 939.500000]
+[21Jun2025 18:17:19.515] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 18:22:19.519] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
