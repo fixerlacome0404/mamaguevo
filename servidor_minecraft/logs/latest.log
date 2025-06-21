@@ -652,3 +652,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [21Jun2025 16:42:30.554] [Server thread/INFO] [owo/]: Receiving client config
 [21Jun2025 16:42:30.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [21Jun2025 17:47:12.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved wrongly!
+[21Jun2025 17:58:16.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=99, y=56, z=872} BlockPos{x=99, y=54, z=873}
+[21Jun2025 17:58:17.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=56, z=873} BlockPos{x=98, y=54, z=874}
+[21Jun2025 17:58:17.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=56, z=873} BlockPos{x=98, y=54, z=874}
+[21Jun2025 18:05:18.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -239.500000, 89.500000, 931.500000]
