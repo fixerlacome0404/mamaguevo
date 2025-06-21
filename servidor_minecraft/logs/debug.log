@@ -9263,3 +9263,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 40 out of bounds for lengt
 [21Jun2025 05:10:58.191] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@13004d0e, c=net.minecraft.world.inventory.ChestMenu@7f40bceb, b=0, e=53}
 [21Jun2025 05:13:51.300] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [21Jun2025 05:18:51.297] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 05:23:51.297] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[21Jun2025 05:28:51.297] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
