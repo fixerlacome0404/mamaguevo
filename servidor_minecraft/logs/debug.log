@@ -8602,3 +8602,18 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Jun2025 02:51:33.183] [Server thread/DEBUG] [harvest_with_ease/]: Loaded it.crystalnest.harvest_with_ease.api.event.NeoForgeEventHelper@73282b5 for service interface it.crystalnest.harvest_with_ease.platform.services.EventHelper
 [23Jun2025 02:51:33.184] [Server thread/DEBUG] [harvest_with_ease/]: Loaded it.crystalnest.harvest_with_ease.platform.NeoForgeHarvestHelper@df60440 for service interface it.crystalnest.harvest_with_ease.platform.services.HarvestHelper
 [23Jun2025 02:54:18.472] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[23Jun2025 02:59:18.424] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[23Jun2025 02:59:55.402] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_1_pool
+[23Jun2025 02:59:55.403] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_2_pool
+[23Jun2025 02:59:55.403] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[23Jun2025 02:59:55.405] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_4_pool
+[23Jun2025 02:59:55.406] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
+[23Jun2025 02:59:55.408] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_additions_3_pool
+[23Jun2025 02:59:55.416] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
+[23Jun2025 02:59:55.417] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
+[23Jun2025 03:01:29.647] [Worker-Main-1/DEBUG] [mixin/]: Mixing FarmerWorkTaskAccessor from fabric-content-registries-v0.mixins.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
+[23Jun2025 03:01:29.648] [Worker-Main-1/DEBUG] [mixin/]: fabric-content-registries-v0.mixins.json:FarmerWorkTaskAccessor from mod fabric_content_registries_v0: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[23Jun2025 03:01:29.649] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Accessor method fabric_setCompostables(Ljava/util/List;)V to fabric_setCompostables$fabric_content_registries_v0_$md$d5da4f$0 in fabric-content-registries-v0.mixins.json:FarmerWorkTaskAccessor from mod fabric_content_registries_v0
+[23Jun2025 03:01:29.649] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Accessor method fabric_getCompostable()Ljava/util/List; to fabric_getCompostable$fabric_content_registries_v0_$md$d5da4f$1 in fabric-content-registries-v0.mixins.json:FarmerWorkTaskAccessor from mod fabric_content_registries_v0
+[23Jun2025 03:04:18.402] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[23Jun2025 03:07:27.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
