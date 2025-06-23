@@ -659,3 +659,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Jun2025 02:59:55.416] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
 [23Jun2025 02:59:55.417] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:cook_end_1_pool
 [23Jun2025 03:07:27.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[23Jun2025 03:26:25.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Byakko4146: Teleported Byakko4146 to -264.500000, 80.500000, 2406.500000]
+[23Jun2025 03:31:12.855] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:stronghold took 0 ms
+[23Jun2025 03:37:23.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! -9.308891186311484,0.0,-4.149862250298611
+[23Jun2025 03:37:23.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8876ms or 177 ticks behind

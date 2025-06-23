@@ -20,6 +20,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "spider_nest": "2025-06-17 04:06:09 +0000",
+      "forested_field": "2025-06-23 03:33:39 +0000",
       "muskeg": "2025-06-12 03:18:47 +0000",
       "woodland": "2025-06-18 03:36:31 +0000",
       "dryland": "2025-06-18 04:04:47 +0000",
@@ -35,12 +36,14 @@
       "jacaranda_glade": "2025-06-14 22:15:00 +0000",
       "pasture": "2025-06-15 18:24:59 +0000",
       "volcanic_plains": "2025-06-18 23:25:55 +0000",
+      "mystic_grove": "2025-06-23 03:17:24 +0000",
       "cold_desert": "2025-06-12 03:19:38 +0000",
       "lavender_field": "2025-06-14 22:14:03 +0000",
       "old_growth_woodland": "2025-06-18 23:25:08 +0000",
       "maple_woods": "2025-06-18 23:36:21 +0000",
       "pumpkin_patch": "2025-06-18 23:36:51 +0000",
       "prairie": "2025-06-21 17:57:25 +0000",
+      "grassland": "2025-06-23 03:20:35 +0000",
       "snowy_coniferous_forest": "2025-06-12 03:20:32 +0000",
       "snowy_fir_clearing": "2025-06-12 03:09:20 +0000",
       "tundra": "2025-06-12 03:19:31 +0000",
@@ -815,17 +818,18 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-12 04:28:44 +0000",
-      "apple": "2025-06-12 02:55:54 +0000",
       "bread": "2025-06-14 18:04:02 +0000",
       "cooked_mutton": "2025-06-12 03:15:35 +0000",
-      "cooked_cod": "2025-06-12 03:12:17 +0000",
+      "glow_berries": "2025-06-23 03:21:15 +0000",
       "cooked_beef": "2025-06-12 03:15:39 +0000",
+      "porkchop": "2025-06-12 04:25:33 +0000",
+      "golden_carrot": "2025-06-21 04:22:34 +0000",
+      "apple": "2025-06-12 02:55:54 +0000",
+      "cooked_cod": "2025-06-12 03:12:17 +0000",
       "cod": "2025-06-12 03:09:29 +0000",
       "rabbit_stew": "2025-06-16 18:30:09 +0000",
-      "porkchop": "2025-06-12 04:25:33 +0000",
       "cooked_salmon": "2025-06-12 03:15:56 +0000",
-      "pumpkin_pie": "2025-06-20 04:27:36 +0000",
-      "golden_carrot": "2025-06-21 04:22:34 +0000"
+      "pumpkin_pie": "2025-06-20 04:27:36 +0000"
     },
     "done": false
   },
@@ -8332,6 +8336,36 @@
   "travelersbackpack:recipes/misc/lapis_smithing": {
     "criteria": {
       "has_lapis": "2025-06-21 20:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-06-23 03:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-06-23 03:24:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-06-23 03:26:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-06-23 03:26:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-06-23 03:10:34 +0000"
     },
     "done": true
   },
