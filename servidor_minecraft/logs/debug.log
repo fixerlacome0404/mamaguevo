@@ -8636,3 +8636,6 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Jun2025 03:34:20.435] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [23Jun2025 03:37:23.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! -9.308891186311484,0.0,-4.149862250298611
 [23Jun2025 03:37:23.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8876ms or 177 ticks behind
+[23Jun2025 03:39:29.284] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[23Jun2025 03:39:56.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Eye Spy]
+[23Jun2025 03:44:29.396] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
