@@ -8650,3 +8650,7 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Jun2025 03:59:31.722] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
 [23Jun2025 04:00:52.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Remote Getaway]
 [23Jun2025 04:04:31.716] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[23Jun2025 04:09:31.718] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[23Jun2025 04:12:37.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [The City at the End of the Game]
+[23Jun2025 04:14:31.719] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save waaaaa
+[23Jun2025 04:18:37.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! 0.2114959643520251,-188.0,5.452489045324455

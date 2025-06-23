@@ -671,3 +671,5 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [23Jun2025 03:58:38.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Free the End]
 [23Jun2025 03:59:28.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has reached the goal [The Next Generation]
 [23Jun2025 04:00:52.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [Remote Getaway]
+[23Jun2025 04:12:37.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Byakko4146 has made the advancement [The City at the End of the Game]
+[23Jun2025 04:18:37.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Byakko4146 moved too quickly! 0.2114959643520251,-188.0,5.452489045324455
